@@ -1,4 +1,4 @@
-# onboarding
+# Onboarding
 
 Welcome to the lab! This guide helps you get up and running as quickly and smoothly as possible. It covers technical setup, lab tools, workflows, and key expectations.
 
